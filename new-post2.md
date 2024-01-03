@@ -6,7 +6,7 @@ domain: blog.favouritejome.dev
 ignorePost: true
 hideFromHashnodeCommunity: true
 enableToc: false
-saveAsDraft: false
+saveAsDraft: true
 ---
 ## Hello world
 
