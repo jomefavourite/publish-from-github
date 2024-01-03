@@ -8,8 +8,6 @@ hideFromHashnodeCommunity: true
 enableToc: false
 saveAsDraft: false
 ---
-
-
 ## Hello world
 
 Testing things out
