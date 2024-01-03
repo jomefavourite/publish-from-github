@@ -1,8 +1,8 @@
 ---
-title: Example title here
+title: Example 2
 slug: example-slug
 tags: reactjs, css, python, nodejs
-domain: https://blog.favouritejome.dev/
+domain: blog.favouritejome.dev
 ignorePost: true
 hideFromHashnodeCommunity: true
 enableToc: false
