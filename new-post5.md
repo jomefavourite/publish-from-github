@@ -7,7 +7,7 @@ subtitle: Testing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681132538878/itnaYF1h-.png
 enableToc: true
 hideFromHashnodeCommunity: true
-ignorePost: true
+ignorePost: false
 seoTitle: Testing
 seoDescription: Hello Description
 disableComments: true
