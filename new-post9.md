@@ -25,4 +25,4 @@ saveAsDraft: true
 
 jhsds
 
-![alt text](img.png)
+![alt text](./img.png)
